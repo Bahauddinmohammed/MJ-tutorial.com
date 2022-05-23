@@ -1,1 +1,1 @@
-# MJ-tutorial.com
+# mjtutorial.com
